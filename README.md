@@ -5,4 +5,4 @@
 
 # gif效果图
 
-![](https://github.com/czl0325/zuozhu/blob/master/demo1.gif)
+![](https://github.com/czl0325/zuozhu/blob/master/demo1.gif?raw=true)
